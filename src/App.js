@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Demo for Netlify ...
+          React Demo for me ...
         </a>
       </header>
     </div>
